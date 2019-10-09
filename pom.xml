@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.xxl.job</groupId>
-    <artifactId>executor</artifactId>
+    <artifactId>TianJin-Executor</artifactId>
     <version>1.0</version>
-    <name>xxlJob-Executor</name>
+    <name>TianJin-Executor</name>
     <description>xxlJob-Executor</description>
 
     <properties>
