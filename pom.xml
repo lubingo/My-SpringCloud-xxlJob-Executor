@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.xxl.job</groupId>
-    <artifactId>e-Business-Executor</artifactId>
+    <artifactId>executor</artifactId>
     <version>1.0</version>
-    <name>e-Business-Executor</name>
-    <description>e-Business-Executor</description>
+    <name>executor</name>
+    <description>executor</description>
 
     <properties>
         <java.version>1.8</java.version>
