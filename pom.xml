@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.xxl.job</groupId>
-    <artifactId>executor</artifactId>
+    <artifactId>Task-Executor</artifactId>
     <version>1.0</version>
-    <name>executor</name>
+    <name>Task-Executor</name>
     <description>Task-Executor</description>
 
     <properties>
